@@ -1,0 +1,134 @@
+Food,Size,Price,Category
+Soft Baked Chocolate Chip Cookie,1 Pc.,0.39,ST
+Apple Pie,,0.99,ST
+Strawberry & Creme Pie (Limited Time),,0.99,ST
+Grilled Onion Cheddar Burger,,1,MMM
+BBQ Ranch Burger,,1,MMM
+Cheeseburger,,1,MMM
+Parfait,,1,MMM
+3 Cookies,,1,MMM
+Cone,,1,MMM
+Apple Slices,2 Bags,1,MMM
+Premium Roast Coffee,Small,1,MD
+Sweet Tea,Small,1,MD
+Soft Drink,Small,1,MD
+Milk,,1,MD
+Dasani Water,Bottle,1,MD
+Cone (Vanilla),,1,ST
+Soft Baked Chocolate Chip Cookie,3 Pc.,1,ST
+Hash Browns,,1.09,MBM
+Mozzarella Sticks,3 Pc.,1.19,SS
+Sausage McMuffin,,1.19,MBM
+Sausage Biscuit,,1.19,MBM
+McChicken,,1.29,MMM
+Sausage Burrito,,1.29,MBM
+Premium Roast Coffee,Medium,1.29,MD
+Sweet Tea,Medium,1.29,MD
+Soft Drink,Medium,1.29,MD
+Sundae (Hot Fudge or Caramel),,1.29,ST
+French Fries,Small,1.39,SS
+McDouble,,1.39,MMM
+Egg & Cheese Biscuit,,1.39,MBM
+Iced Coffee,Small,1.39,MD
+Premium Roast Coffee,Large,1.49,MD
+Sweet Tea,Large,1.49,MD
+Soft Drink,Large,1.49,MD
+Side Salad,,1.59,MMM
+Orange Juice,Small,1.59,MD
+Chicken Ranch Snack Wrap (Grilled or Crispy),,1.69,SS
+Double Cheeseburger,,1.69,MMM
+Cinnamon Melt,,1.69,MBM
+French Fries,Medium,1.79,SS
+Iced Coffee,Medium,1.79,MD
+McFlurry,Snack,1.79,ST
+French Fries,Large,1.89,SS
+Orange Juice,Medium,1.89,MD
+Daily Double,,1.99,MMM
+4 Pc. Chicken McNuggets,,1.99,MMM
+Iced Coffee,Large,1.99,MD
+Fruit & Maple Oatmeal,,1.99,OM
+2 Cheeseburgers,,2,EVM
+Entree (McDouble or McChicken) & Side (Small Fries or 3 Pc. Mozzarella Sticks),,2,MP
+Bacon McDouble,,2,MMM
+Orange Juice,Large,2.09,MD
+Shake,Small,2.19,ST
+Shamrock Shake (Limited Time),Small,2.19,ST
+Smoothie,Small,2.39,MD
+Frappe,Small,2.39,MD
+Espresso & Chocolate,Small,2.39,MD
+McFlurry,Regular,2.39,ST
+2 Sausage Burritos,,2.39,BFM
+Hamburger,,2.49,HM
+3 Hot Cakes,,2.49,MP
+Shake,Medium,2.59,ST
+Shamrock Shake (Limited Time),Medium,2.59,ST
+Cheeseburger,,2.79,HM
+Egg White Delight McMuffin,,2.79,BFM
+Egg McMuffin,,2.79,BFM
+Sausage Biscuit with Egg,,2.79,BFM
+Sausage McGriddles,,2.79,BFM
+Smoothie,Medium,2.89,MD
+Frappe,Medium,2.89,MD
+Espresso & Chocolate,Medium,2.89,MD
+Sausage Gravy & Biscuit,,2.89,BFM
+Shake,Large,2.99,ST
+Shamrock Shake (Limited Time),Large,2.99,ST
+Sausage McMuffin with Egg,,2.99,BFM
+Sausage Gravy & Biscuit,,2.99,MP
+Bacon Egg & Cheese Biscuit,,3.19,BFM
+Bacon Egg & Cheese McGriddles,,3.19,BFM
+3 Hot Cakes with Sausage,,3.19,MP
+Chicken McNuggets,4 Pc.,3.29,HM
+Sausage Egg & Cheese McGriddles,,3.29,BFM
+Bacon Egg & Cheese Bagel,,3.29,BFM
+Smoothie,Large,3.39,MD
+Frappe,Large,3.39,MD
+Espresso & Chocolate,Large,3.39,MD
+Big Breakfast,,3.69,MP
+Quarter Pounder with Cheese,,3.79,EVM
+Filet-O-Fish,,3.79,EVM
+Big Mac,,3.99,EVM
+Chicken McNuggets,6 Pc.,3.99,MKM
+Egg White Delight McMuffin - Meal,,3.99,BFM
+Egg McMuffin - Meal,,3.99,BFM
+Sausage Biscuit with Egg - Meal,,3.99,BFM
+Steak Egg & Cheese Bagel,,3.99,BFM
+Sausage McMuffin with Egg - Meal,,4.19,BFM
+2 Sausage Burritos - Meal,,4.29,BFM
+Buttermilk Crispy Chicken,,4.39,EVM
+Artisan Grilled Chicken,,4.39,EVM
+Premium McWrap Chicken & Bacon (Grilled or Crispy),,4.39,EVM
+Premium McWrap Chicken & Ranch (Grilled or Crispy),,4.39,EVM
+Premium McWrap Sweet Chili Chicken (Grilled or Crispy),,4.39,EVM
+Bacon Egg & Cheese Biscuit - Meal,,4.39,BFM
+Bacon Clubhouse Burger,,4.49,EVM
+Premium Chicken Bacon Clubhouse (Grilled or Crispy),,4.49,EVM
+Chicken McNuggets,10 Pc.,4.49,NM
+Bacon Egg & Cheese McGriddles - Meal,,4.49,BFM
+Sausage Egg & Cheese McGriddles - Meal,,4.49,BFM
+Sausage McGriddles - Meal,,4.49,BFM
+Bacon Ranch Salad,,4.59,SG
+Double Quarter Pounder with Cheese,,4.79,EVM
+Double Filet-O-Fish,,4.79,EVM
+Southwest Salad,,4.79,SG
+2 Cheeseburgers - Meal,,4.89,EVM
+Sausage Gravy & Biscuit - Meal,,4.89,BFM
+Bacon Egg & Cheese Bagel - Meal,,4.99,BFM
+Chicken McNuggets,20 Pc.,5,NM
+20 Pc. Chicken McNuggets,,5,MMM
+Steak Egg & Cheese Bagel - Meal,,5.19,BFM
+Big Breakfast with Hot Cakes,,5.49,MP
+Quarter Pounder with Cheese - Meal,,5.79,EVM
+Filet-O-Fish - Meal,,5.79,EVM
+Big Mac - Meal,,5.99,EVM
+Buttermilk Crispy Chicken - Meal,,6.39,EVM
+Artisan Grilled Chicken - Meal,,6.39,EVM
+Premium McWrap Chicken & Bacon (Grilled or Crispy) - Meal,,6.39,EVM
+Premium McWrap Chicken & Ranch (Grilled or Crispy) - Meal,,6.39,EVM
+Premium McWrap Sweet Chili Chicken (Grilled or Crispy) - Meal,,6.39,EVM
+Bacon Clubhouse Burger - Meal,,6.49,EVM
+Premium Chicken Bacon Clubhouse (Grilled or Crispy) - Meal,,6.49,EVM
+Chicken McNuggets - Meal,10 Pc.,6.49,NM
+Double Quarter Pounder with Cheese - Meal,,6.69,EVM
+Double Filet-O-Fish - Meal,,6.79,EVM
+Chicken McNuggets,40 Pc.,8.99,NM

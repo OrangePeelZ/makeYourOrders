@@ -1,0 +1,14 @@
+Extra Value MealsMeals (Include Medium French Fries or Salad & Soft Drink),EVM
+NuggetsMeals (Include Medium French Fries or Salad & Soft Drink),NM
+SaladsGrilled or Crispy Chicken,SG
+McPick 2 for $2Limited Time,MP
+Snacks & Sides,SS
+McValue Menu & More,MMM
+McValue Breakfast Menu,MBM
+McCafe Drinks,MD
+Sweet Treats,ST
+Happy MealIncludes Kids French Fries,HM
+Mighty Kids Meal (Includes Small French Fries),MKM
+Breakfast Meals Meals (Include Hash Browns and Small Coffee),BFM
+Morning Platters,MP
+Oatmeal,BFM
