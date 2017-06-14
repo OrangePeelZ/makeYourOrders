@@ -12,4 +12,4 @@ This project is at very rudimentary level - a lot of methods and great ideas (we
 
 ## Authors
 
-* **Xinyue Zhou** - *Initial work* - [PurpleBooth](https://github.com/OrangePeelZ/)
+* **Xinyue Zhou** - *Initial work* - [OrangePeelZ](https://github.com/OrangePeelZ/)
