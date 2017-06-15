@@ -5,6 +5,8 @@
 # http://shiny.rstudio.com
 #
 
+source("getMcDonaldMenu.R")
+
 library(shiny)
 
 shinyServer(function(input, output, session) {
@@ -115,13 +117,7 @@ output$Size <- renderUI({
     validate(
       shiny::need(nrow(preOrderDF$df) > 0
                   ,"Fetching data")
-      # need(!is.null(input$delete), "")
     )
-# 
-#     
-#     print(input$delete)
-#     print(preOrderDF$df)
-#     
     preOrderDF$df = subset(preOrderDF$df, foodSize%in%input$delete)
     
     
