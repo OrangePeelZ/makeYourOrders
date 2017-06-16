@@ -6,7 +6,19 @@ This system enables interaction between customers, sales and backend services (e
 
 This project is at very rudimentary level - a lot of methods and great ideas (well, I think...)  have not been implemented yet. I will keep working on this project, and hopefully it will contribute a little bit for the community.
 
-## Getting Started
+## Run App Locally
+By pushing a small piece of demo data (McDonald's dishes), it enable one run it locally without shiny server or shiny.io. You can try this our by follow the steps below:
+
+* git clone the the project under a directory you know
+```
+git clone git@github.com:OrangePeelZ/makeYourOrders.git
+```
+* Open your Rstudio and install following packages in the console
+```
+install.packages(c("shiny", "shinydashboard", "dplyr"))
+```
+* Open `server.R` in Rstudio and click `Run` on the top right corner of your script screen.
+
 
 
 
